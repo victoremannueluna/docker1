@@ -4,7 +4,7 @@ name: HTTP
 
 on:
   push:
-    branches: ["Main"] 
+    branches: ["main"] 
 jobs:
   cd-prod:
 
